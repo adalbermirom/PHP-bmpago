@@ -106,7 +106,8 @@ $response : array<string|int, mixed>|null
 
 Retorna um array [código, mensagem] se houver erro, ou false se sucesso.
 
-  
+---
+ 
 ### bmpago_checkoutpro_create()
 
 Cria uma preferência de pagamento (Checkout Pro) na API do Mercado Pago.
@@ -131,7 +132,7 @@ array<string|int, mixed>|null
 
 Resposta da API decodificada contendo o link de pagamento.
 
-
+---
 
 ### bmpago_checkoutpro_ui()
 
@@ -165,7 +166,7 @@ Retorna o HTML de um Card com estilo próprio, sem depender de CSS externo.
 
 HTML formatado.
 
-
+---
 
 ### bmpago_generate_date()
 
@@ -187,7 +188,7 @@ Gera uma data formatada no padrão ISO 8601 exigido pelo Mercado Pago.
    Data formatada ex: 2026-02-28T10:30:00.000-03:00
 
 
-
+---
 
 
 ###    bmpago_get_payment()
@@ -211,6 +212,7 @@ Busca detalhes de um pagamento específico pelo ID.
 
 Resposta da API com os detalhes do pagamento.
 
+---
 
 ### bmpago_pix_create()
 
@@ -235,6 +237,7 @@ Parameters`
 
 
 
+---
 
 
 ### bmpago_pix_simple()
