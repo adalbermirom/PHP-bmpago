@@ -92,7 +92,8 @@ Ou: [https://br4.biz/mpago/libmpago/docs/index.html](https://br4.biz/mpago/libmp
 ### bmpago_check_for_errors()
 
 Valida a resposta da API para detectar erros.
-bmpago_check_for_errors(array<string|int, mixed>|null $response) : array<string|int, mixed>|false
+
+`bmpago_check_for_errors(array<string|int, mixed>|null $response) : array<string|int, mixed>|false`
 
 Entende diferentes formatos de erro (Pix/CheckoutPro).
 
