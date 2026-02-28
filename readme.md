@@ -2,7 +2,7 @@
 
 Uma biblioteca PHP minimalista e poderosa para integrar pagamentos do Mercado Pago em segundos. Focada em simplicidade e produtividade.
 
-Distribuída sob a liceça MIT, portanto é totalmente livre para usá-la.
+Distribuída sob a licença MIT, portanto é totalmente livre para usá-la.
 
 ### ✨ Funcionalidades Pix Simples: 
 
