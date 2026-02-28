@@ -1,0 +1,11 @@
+# Arquivos de ambiente
+.env
+.phpdoc
+
+# Pastas de IDEs
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
