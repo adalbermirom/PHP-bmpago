@@ -1,5 +1,15 @@
 <?php
 //mpago/core.php 'core'
+/**
+ * BMPago - Beto Mercado Pago PHP Lib
+ *
+ * Biblioteca PHP minimalista para integrar pagamentos do Mercado Pago.
+ *
+ * @package    BMPago
+ * @author     Adalberto
+ * @version    1.0.0
+ * @license    MIT
+ */
 
 /**
  * Gera uma data formatada no padrão ISO 8601 exigido pelo Mercado Pago.

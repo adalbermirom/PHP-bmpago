@@ -1,7 +1,16 @@
 <?php
-
 //mpgago/pix.php
-
+/**
+ * BMPago - Beto Mercado Pago PHP Lib
+ *
+ * Biblioteca PHP minimalista para integrar pagamentos do Mercado Pago.
+ *
+ * @package    BMPago
+ * @author     Adalberto
+ * @version    1.0.0
+ * @license    MIT
+ */
+ 
 //descomente caso queira ver os erros.
 //error_reporting(E_ALL);
 //ini_set('display_errors', 1);

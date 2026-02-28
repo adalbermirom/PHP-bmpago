@@ -1,5 +1,15 @@
 <?php
 require_once __DIR__ . '/core.php';
+/**
+ * BMPago - Beto Mercado Pago PHP Lib
+ *
+ * Biblioteca PHP minimalista para integrar pagamentos do Mercado Pago.
+ *
+ * @package    BMPago
+ * @author     Adalberto
+ * @version    1.0.0
+ * @license    MIT
+ */
 
 
 /**

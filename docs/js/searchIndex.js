@@ -51,6 +51,11 @@ Search.appendIndex(
             "summary": "Captura\u0020a\u0020notifica\u00E7\u00E3o\u0020do\u0020Mercado\u0020Pago\u0020\u0028Webhook\u0029\u0020e\u0020valida\u0020se\u0020o\u0020pagamento\u0020foi\u0020aprovado.",
             "url": "namespaces/default.html#function_bmpago_webhook_confirm_payment"
         },                {
+            "fqsen": "\\load_env\u0028\u0029",
+            "name": "load_env",
+            "summary": "Carrega\u0020vari\u00E1veis\u0020de\u0020ambiente\u0020de\u0020um\u0020arquivo\u0020.env\u0020para\u0020o\u0020sistema.",
+            "url": "namespaces/default.html#function_load_env"
+        },                {
             "fqsen": "\\",
             "name": "\\",
             "summary": "",

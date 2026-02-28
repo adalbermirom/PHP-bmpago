@@ -1,10 +1,13 @@
 # Arquivos de ambiente
 .env
 .phpdoc
+phpdoc.xml
+
 
 # Pastas de IDEs
 .vscode/
 .idea/
+build/
 
 # Arquivos temporários do sistema
 .DS_Store

@@ -1,5 +1,15 @@
 <?php
 //mpgago/checkoutpro.php
+/**
+ * BMPago - Beto Mercado Pago PHP Lib
+ *
+ * Biblioteca PHP minimalista para integrar pagamentos do Mercado Pago.
+ *
+ * @package    BMPago
+ * @author     Adalberto
+ * @version    1.0.0
+ * @license    MIT
+ */
 
 // Reportar todos os tipos de erros
 error_reporting(E_ALL);

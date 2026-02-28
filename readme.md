@@ -83,6 +83,8 @@ Consulte os arquivos na pasta `raiz` para ver exemplos.
 
 Abra o arquivo `docs/index.html` no seu navegador.
 
+Ou: [https://br4.biz/mpago/libmpago/docs/index.html](https://br4.biz/mpago/libmpago/docs/index.html)
+
 
 ## 📚 Referência de Funções
 

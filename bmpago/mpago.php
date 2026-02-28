@@ -1,11 +1,13 @@
 <?php
 /**
- * BmPago - Biblioteca Minimalista Mercado Pago
- * Versão: 1.0.0
- * Licença: MIT
- * Author: Adalberto Amorim Felipe
- * 
- * modulo de carregamento total.
+ * BMPago - Beto Mercado Pago PHP Lib
+ *
+ * Biblioteca PHP minimalista para integrar pagamentos do Mercado Pago.
+ *
+ * @package    BMPago
+ * @author     Adalberto
+ * @version    1.0.0
+ * @license    MIT
  */
 
 // 1. Carrega o Core (Requisições cURL)
