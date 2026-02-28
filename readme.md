@@ -314,7 +314,7 @@ Gera uma string HTML com a interface do Pix (QR Code, Copia e Cola e Contador).
 
     Título do produto/pedido.
 
-** Return values**
+**Return values**
 
 1. string
 
