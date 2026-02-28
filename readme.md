@@ -28,7 +28,7 @@ $response = bmpago_pix_simple(
 );
 
 if (!bmpago_check_for_errors($response)) {
-    echo mppago_ui_pix($response, "Minha Venda Top");
+    echo mppago_pix_ui($response, "Minha Venda Top");
 }
 ```
 
